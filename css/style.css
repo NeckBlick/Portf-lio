@@ -23,7 +23,7 @@
     margin-left: 1rem;
 }
 #navbarNavAltMarkup .nav-link:hover{
-    transform: scale(1.1,1.1);
+    transform: scale(1.2,1.2);
     color: var(--purple);
     transition: ease-in-out 0.2;
 }
