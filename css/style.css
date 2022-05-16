@@ -8,6 +8,10 @@
 }
 
 /* Navbar */
+.js_menu{
+    background-color: #fff;
+    z-index: 999;
+}
 #nav{
     transition: ease-in-out 0.2s;
 }
