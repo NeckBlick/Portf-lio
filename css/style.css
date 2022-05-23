@@ -15,9 +15,6 @@
     background-color: #fff;
     z-index: 999;
 }
-#nav{
-    transition: ease-in-out 0.2s;
-}
 #navbarNavAltMarkup{
     justify-content: flex-end;
     height: 5vh;
@@ -269,8 +266,12 @@
     grid-gap: 30px;
 }
 @media(max-width:768px){
+    #navbarNavAltMarkup{
+        text-align: center;
+        margin-bottom: 6rem;
+    }
     .card-container{
-        height: 295vh;
+        height: 230vh;
         margin-bottom: 1.5rem;
     }
     .container_responsive{
