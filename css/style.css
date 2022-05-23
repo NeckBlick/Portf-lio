@@ -270,7 +270,7 @@
 }
 @media(max-width:768px){
     .card-container{
-        height: 200vh;
+        height: 295vh;
         margin-bottom: 1.5rem;
     }
     .container_responsive{
